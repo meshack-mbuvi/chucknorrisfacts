@@ -1,0 +1,4 @@
+export const SET_CATEGORIES = "SET_CATEGORIES";
+export const SET_JOKES = "SET_JOKES";
+export const SELECT_CATEGORY = "SELECT_CATEGORY";
+export const SEARCH_RESULTS = "SEARCH_RESULTS";
